@@ -3,10 +3,6 @@ layout: page
 title: "Johan Ahlback"
 ---
 
-/* Cover Image */
-.hero {
-  background: url('../lilongwe.png');
-}
 
 ## About
 
