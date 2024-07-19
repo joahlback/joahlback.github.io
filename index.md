@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Johan Ahlback"
+background_image: /assests/images/lilongwe.png
 ---
 
 
