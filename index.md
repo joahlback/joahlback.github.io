@@ -1,7 +1,13 @@
 ---
 layout: page
 title: "Johan Ahlback"
+image:
+  background: lilongwe.png
 ---
+```yaml
+image:
+  background: filename.png
+```
 
 ## About
 
