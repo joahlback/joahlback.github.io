@@ -5,7 +5,7 @@ title: "Johan Ahlback"
 
 /* Cover Image */
 .hero {
-  background: ('assets/lilongwe.png');
+  background: url('../lilongwe.png');
 }
 
 ## About
