@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Johan Ahlback"
+image:
+  background: /assets/lilongwe.png
 ---
 
 ## About
