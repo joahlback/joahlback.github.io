@@ -10,4 +10,4 @@ My research interests focus on political and electoral behaviour, electoral inte
 My regional specialisation is Sub-Saharan Africa. My work has been published in Journal of Development Economics. 
 Previously I worked in the Department for Politics and International Relations in Royal Holloway, University of London. 
 
-![me](/assets/IMG_0019.jpg){:width="20%"}
+![me](/assets/IMG_0019.jpg){:width="400px"}
