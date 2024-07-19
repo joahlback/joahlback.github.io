@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How information about foreign aid affects public spending decisions: Evidence from a field experiment in Malawi
+title: "How information about foreign aid affects public spending decisions: Evidence from a field experiment in Malawi"
 ---
 
 - with Brigitte Seim and Ryan Jablonski
