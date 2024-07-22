@@ -1,5 +1,5 @@
 ---
-title: "What causes tallying irregularities? Identifying human error and fraud in the 2019 Malawian elections"
+title: "How to distinguish human error from election fraud: Evidence from the 2019 Malawi election"
 layout: post
 ---
 
