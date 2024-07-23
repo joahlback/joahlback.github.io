@@ -1,5 +1,5 @@
 ---
-title: "Foreign aid is neither a curse nor a blessing: Explaining the effects of foreign aid on voring behavior and accountability"
+title: "Foreign aid is neither a curse nor a blessing: Explaining the effects of foreign aid on voting behavior and accountability"
 layout: post
 ---
 
