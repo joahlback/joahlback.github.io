@@ -3,7 +3,7 @@ layout: post
 title: "Building voter confidence in election results: a conjoint experiment in Malawi"
 ---
 
-- with Alex Yeandle (ongoing project)
+- with Alex Yeandle (funded project)
 
 
 
